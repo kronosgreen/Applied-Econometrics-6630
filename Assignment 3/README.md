@@ -1,3 +1,5 @@
+<meta charset="UTF-8">
+
 ## Assignment 3
 
 This assignment reflects a two-part overview of the material assigned thus far. Assignment 4 will be the second part. The maximum score for each is 100. Class participation will be added to your score, with the total not to exceed max points.
@@ -21,4 +23,4 @@ This assignment reflects a two-part overview of the material assigned thus far. 
     3. What is the p-value?
     4. How would you explain the result of this test? What does it tell you about the economic significance of β1?
 13. Is the model below linear in the parameters? Suppose β1 = 1.2. Interpret the effect of X on Y. 
-<p style="text-align: center;">ln(y<sub>i</sub>)= ln⁡(&alpha;)+ &beta;<sub>1</sub> ln⁡(X<sub>1i</sub>)</p>
+<p style="text-align: center;">ln(y<sub>i</sub>) = ln⁡(&alpha;)+ &beta;<sub>1</sub> ln⁡(X<sub>1i</sub>)</p>
